@@ -361,4 +361,6 @@ public class SpringbootApplication {
 
 
 </project>
-
+#表示项目的端口，默认端口8080
+server:
+  port: 8080
